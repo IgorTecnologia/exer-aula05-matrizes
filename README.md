@@ -1,4 +1,4 @@
-# exercício aula05 - matrizes
+# exercícios aula05 - matrizes
 *Matrizes*
 - Atividade solucionada durante o primeiro bloco do programa Developer Jr.Java React Full Stack, da ONG Generation Brasil.
 
